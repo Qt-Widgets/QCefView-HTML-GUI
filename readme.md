@@ -3,6 +3,7 @@ Quick Start with Qt+Cef https://tishion.github.io/QCefView
 
 This is the fresh new reforming version of QCefView, if you need to use the legacy one please checkout the ***legacy-archive*** branch.
 
+![screenshot](https://github.com/Qt-Widgets/QCefView-HTML-GUI/blob/master/screenshot.jpg)
 
 Build instruction:
 
